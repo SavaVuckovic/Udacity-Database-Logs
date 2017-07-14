@@ -9,9 +9,7 @@ articles in the database) using only one SQL query per question.
 
 ## Requirements
 
-In order to successfully run this program, it is required to have Python installed. Further instructions for downloading and installing Python can be found on  [official python website](https://www.python.org/).
-##### Note
-Python 3 is required.
+In order to successfully run this program, it is required to have Python 3 installed. Further instructions for downloading and installing Python can be found on  [official python website](https://www.python.org/).
 
 Additional Python package required:
 - psycopg2
